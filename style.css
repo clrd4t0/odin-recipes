@@ -1,0 +1,35 @@
+* {
+    font-family: 'Trebuchet MS', 'Verdana', 'sans-serif';
+    color: black;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 800;
+    font-family: 'Brush Script MT', Verdana, 'sans-serif';
+}
+
+.image-description {
+    font-size: 14px;
+    font-weight: 100;
+}
+
+#main-title {
+    color: red;
+    text-shadow: -2px 2px orange,
+    -4px 4px yellow,
+    -6px 6px green,
+    -8px 8px #2196f3,
+    -10px 10px #a600ff;
+    padding-left: 30px;
+    font-weight: 200;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    background-color: #2196f320;
+    color: black;
+}
