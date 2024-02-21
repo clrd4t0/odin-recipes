@@ -19,5 +19,10 @@ code, like this: (----- UPDATE DD/MM/YYYY HH:MM -----)
 Good luck to me!
 
 ----- UPDATE 17/02/2024 16:18 -----
+
 I've completed the project. Feels great to have something I made work and look like it's intended to. Surprisingly I made a mistake when working with git, so I had to repair my repository with the help of Google. Luckily it worked and nothing was lost. This has been a great experience.
 **Project finished**
+
+----- UPDATE 21/02/2024 14:38 -----
+
+Pushed a new commit, added basic CSS Stlying. Makes me wonder if most recipe sites on the internet is part of TOP. This is real fun. Hopefully I can make this website look more like a proper site in the future.
